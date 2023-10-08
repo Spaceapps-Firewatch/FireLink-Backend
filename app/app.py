@@ -23,6 +23,7 @@ uploaded_file = st.sidebar.file_uploader("Upload png file", type=["png"])
 
 if uploaded_file is not None:
     uploaded_image = Image.open(uploaded_file)
+    uploaded_image = uploaded_image.convert("RGB")
     st.markdown("** Original Raw Image: **")
     st.image(uploaded_image, width = 500)
     
