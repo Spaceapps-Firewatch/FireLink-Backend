@@ -24,9 +24,10 @@ The backend can either display the original image and the fire mask on a Streaml
 
 ## Credit
 Used with permissions: https://github.com/yueureka/WildFireDetection
+
 Teammates:
-* Aishik Sanyal (@Xcellect)
-* Jasper Grant (@JasperGrant)
-* Aniq Elahi (@Aniq-byte)
-* Paras Nath Seth (@parass05)
-* Christian Simoneau (@ChrisSimoneau)
+- **Aishik Sanyal** ([@Xcellect](https://github.com/Xcellect))
+- **Jasper Grant** ([@JasperGrant](https://github.com/JasperGrant))
+- **Aniq Elahi** ([@Aniq-byte](https://github.com/Aniq-byte))
+- **Paras Nath Seth** ([@parass05](https://github.com/parass05))
+- **Christian Simoneau** ([@ChrisSimoneau](https://github.com/ChrisSimoneau))
