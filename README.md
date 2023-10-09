@@ -23,7 +23,7 @@ The backend also calculates the geographic coordinates of the image corners base
 The backend can either display the original image and the fire mask on a Streamlit dashboard, or return them as JSON data to the front end application via the API endpoint. The user can zoom in and out, pan, and toggle the layers to see the fire hotspots more clearly.
 
 ## Credit
-Used with permissions: https://github.com/yueureka/WildFireDetection
+- ML model: https://github.com/yueureka/WildFireDetection (Used with permissions)
 
 Teammates:
 - **Aishik Sanyal** ([@Xcellect](https://github.com/Xcellect))
