@@ -1,6 +1,6 @@
-# FireLink Backend
+# Firelink Backend
 
-FireLink Backend is a Python application that provides the core functionality for the FireLink web application. It uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
+Firelink Backend is a Python application that provides the core functionality for the Firelink web application. It uses generative AI to detect and visualize fire hotspots from satellite or UAV multispectral images.
 
 ## Quickstart
 
